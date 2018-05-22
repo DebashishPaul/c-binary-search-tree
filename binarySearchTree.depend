@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1512514106 source:g:\c++ save\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	<iostream>
+
+1511332964 g:\c++ save\binarysearchtree\binarysearchtree.h
+
+1511333218 source:g:\c++ save\binarysearchtree\main.cpp
+	<iostream>
+	"binarysearchtree.h"
+	"binarysearchtree.cpp"
+
+1512514106 g:\c++ save\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	<iostream>
+
